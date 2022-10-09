@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;   
+}
+
+.universo img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.sky {
+    position: absolute;  
+}
+
+.sky img {
+    width: 25vw;
+    margin-left: 140%;
+    margin-top: 20%;
+    border-radius: 25%;
+}  
+
+.cat {
+    position: absolute;
+    margin-left: 50%;
+    padding-top: 22%;  
+}
+
+audio {
+    position: absolute;
+    padding-top: 90%;
+    margin-left: -160%;
+    width: 80%;
+    
+}
+
+
